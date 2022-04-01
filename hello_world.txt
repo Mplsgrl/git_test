@@ -1,1 +1,1 @@
-I am adding more text to hello world.txt for practice 
+I am adding more text to hello world.txt for practice Today is 04.01.2022 and I will be starting my recipes project this weekend. 
